@@ -1,0 +1,1 @@
+{"message":"Task with ID 1 was successfully retrieved.","task":{"taskID":1,"title":"Test Title","description":"Test Description","category":"Test Category","deadline":"2024-04-13T08:30:00","completed":false}}

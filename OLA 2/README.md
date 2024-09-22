@@ -6,8 +6,8 @@
 
    Code coverage can be found if you open the /Project/RestAPI.Tests/coverage-report/index.html file
 
-4. All scripts for Postman found in /Project/RestAPI.Tests/OLA2SK.postman_collection.json
+3. All scripts and responses for Postman found in /Project/Postman/
 
-5. The load test can be found in the folder /Project/Jmeter Load Test and also in the Reflection on Coverage and Performance.pdf
+4. The load test can be found in the folder /Project/Jmeter Load Test and also in the Reflection on Coverage and Performance.pdf
 
-6. Reflection on Coverage and Performance.pdf
+5. Reflection on Coverage and Performance.pdf

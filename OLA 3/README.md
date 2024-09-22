@@ -2,7 +2,7 @@
 
 1. CRUD controller, model and data can all be found in /RestAPI/ folder
 
-2. Unit tests are found in /RestAPI.Tests/UnitTest.cs. The code coverage can be found in the Reflection.pdf and in /Project/RestAPI.Tests/coverage-report/index.html file
+2. Unit tests are found in /RestAPI.Tests/UnitTest.cs. The code coverage can be found in the Reflection.pdf and in /RestAPI.Tests/coverage-report/index.html file
 
 3. These test can be found in /RestAPI.Tests/ValidationTests.cs
 
